@@ -21,4 +21,4 @@ A relational database was designed in **MySQL 8.0** to:
 - 
 ## 🗄️ Database Schema
 
-![Database Schema](database/gansschema.png)
+![Database Schema](database/Gansschema.png)
