@@ -11,9 +11,9 @@ It gathers, processes, and stores data from multiple sources to provide a scalab
 
 ## 🗄️ Database
 A relational database was designed in **MySQL 8.0** to:  
-- Store and update retrieved demographic, geographic, flight, and weather data.  
-- Ensure data integrity with relationships and constraints.  
-- Support efficient updates and queries for city-level insights.  
+- Store and update retrieved data.  
+- Ensure data integrity with ** relationships**  and **constraints**.  
+- Support efficient updates and queries.  
 
 ## 🛠️ Technologies Used
 - **Python**: Pandas, BeautifulSoup, Requests, SQLAlchemy  
