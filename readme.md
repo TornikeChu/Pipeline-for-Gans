@@ -17,4 +17,8 @@ A relational database was designed in **MySQL 8.0** to:
 
 ## 🛠️ Technologies Used
 - **Python**: Pandas, BeautifulSoup, Requests, SQLAlchemy  
-- **MySQL 8.0**  
+- **MySQL 8.0**
+- 
+## 🗄️ Database Schema
+
+![Database Schema](database/gansschema.png)
